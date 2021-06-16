@@ -35,6 +35,8 @@
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="linux"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/aws-lambda-1.svg" title="aws-lambda"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" title="sklearn"></code>
+<code><img height="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdeveloper.qualcomm.com%2Fblog%2Fsnapdragon-supports-pytorch-10-ai-research-and-production-same-framework&psig=AOvVaw2ofojz1vtyTPEaFcAMLsFb&ust=1623953800966000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLC6ucDhnPECFQAAAAAdAAAAABAD" title="PyTorch"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" title=""></code>
 
 ### GitHub Stats
 
