@@ -54,4 +54,4 @@
 
 ### Follow me
 
-[![Linkedin Badge](https://img.shields.io/badge/-anjul%20sharma-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anjul-sharma-2b16b213a/)](https://www.linkedin.com/in/anjul-sharma-2b16b213a/)
+[![Linkedin Badge](https://img.shields.io/badge/-anjul%20sharma-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anjul-sharma-2b16b213a/)](https://www.linkedin.com/in/anjul-sharma-2b16b213a/) [![GitHub Badge](https://img.shields.io/badge/-@anjul1008-24292e?style=flat-circle&labelColor=24292e&logo=github&logoColor=white&link=https://github.com/anjul1008)](https://github.com/anjul1008)
