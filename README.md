@@ -7,8 +7,6 @@
  </p>
 
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-
-#<em> Want to know more about me? [Click here](https://kishanlal.tech/) </em>
 <em>
   
 **Talking about Personal Stuffs:**
@@ -63,4 +61,4 @@
 
 ### Follow me
 
-[![Linkedin Badge](https://img.shields.io/badge/-Kishan%20Lal-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anjul-sharma-2b16b213a/)](https://www.linkedin.com/in/anjul-sharma-2b16b213a/) [![Gmail Badge](https://img.shields.io/badge/-@kishanlal0725-d54b3d?style=flat-circle&labelColor=d54b3d&logo=gmail&logoColor=white&link=mailto:anjuljangir@gmail.com)](mailto:anjuljangir@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-anjul%20sharma-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anjul-sharma-2b16b213a/)](https://www.linkedin.com/in/anjul-sharma-2b16b213a/) [![Gmail Badge](https://img.shields.io/badge/-@anjul-d54b3d?style=flat-circle&labelColor=d54b3d&logo=gmail&logoColor=white&link=mailto:anjuljangir@gmail.com)](mailto:anjuljangir@gmail.com)
