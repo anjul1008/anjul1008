@@ -47,6 +47,8 @@
 <code><img height="30" src="https://github.com/valohai/ml-logos/blob/master/cuda.svg" title="Cuda"></code>
 <code><img height="30" src="https://github.com/valohai/ml-logos/blob/master/pandas.svg" title="Pandas"></code>
 
+
+
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
@@ -61,6 +63,7 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
+
 ### GitHub Stats
 
 <p align="center">
@@ -69,6 +72,7 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
   </a>
  </p>
  
+ 
 ### Top Languages
 
 <p align="center">
@@ -76,6 +80,7 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
   <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/top-langs/?username=anjul1008&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400">
 </a>
 </p>
+
 
 ### Follow me
 
