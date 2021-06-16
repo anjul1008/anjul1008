@@ -12,7 +12,6 @@
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m a Senior Software Developer at [Reverie Language Technologies](https://reverieinc.com/);
-- 💼 I’m currently pursuing my final year of Bachelor's degree in Information Technology at [VCET](https://vcet.ac.in/);
 - 🤔 My tech interests are with  Machine Learning, Data Science 📊, AI 🖥️ ;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via anjuljangir@gmail.com or ping me on [LinkedIn](https://www.linkedin.com/in/anjul-sharma-2b16b213a/) to reach me;
@@ -61,4 +60,4 @@
 
 ### Follow me
 
-[![Linkedin Badge](https://img.shields.io/badge/-anjul%20sharma-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anjul-sharma-2b16b213a/)](https://www.linkedin.com/in/anjul-sharma-2b16b213a/) [![Gmail Badge](https://img.shields.io/badge/-@anjul-d54b3d?style=flat-circle&labelColor=d54b3d&logo=gmail&logoColor=white&link=mailto:anjuljangir@gmail.com)](anjuljangir@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-anjul%20sharma-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anjul-sharma-2b16b213a/)](https://www.linkedin.com/in/anjul-sharma-2b16b213a/)
