@@ -46,6 +46,22 @@
 <code><img width="50" height="30" src="https://github.com/valohai/ml-logos/blob/master/matplotlib.svg" title="Matplotlib"></code>
 <code><img height="30" src="https://github.com/valohai/ml-logos/blob/master/cuda.svg" title="Cuda"></code>
 <code><img height="30" src="https://github.com/valohai/ml-logos/blob/master/pandas.svg" title="Pandas"></code>
+
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+```text
+Python       38 hrs 59 mins  ███████████████████████▓░   90.66 % 
+ML            5 hrs 54 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
+CSS          45 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+HTML         24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+JSON         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+```
+<!--END_SECTION:waka-->
+
+If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
+
+<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
 ### GitHub Stats
 
 <p align="center">
