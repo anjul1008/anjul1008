@@ -64,23 +64,9 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 <a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 
-### GitHub Stats
 
-<p align="center">
-  <a href = "https://github.com/anjul1008">
-<img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api?username=anjul1008&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true">
-  </a>
- </p>
  
  
-### Top Languages
-
-<p align="center">
-<a href = "https://www.linkedin.com/in/anjul-sharma-2b16b213a">
-  <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/top-langs/?username=anjul1008&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400">
-</a>
-</p>
-
 
 ### Follow me
 
