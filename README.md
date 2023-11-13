@@ -6,11 +6,6 @@
   </em>
  </p>
 
-<a href="https://www.linkedin.com/in/anjul-sharma-2b16b213a/">
-  <img align="left" alt="Anjul's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<img align="right" alt="Coder GIF" height=250 width=350 src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-<em>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=anjul1008)
   
