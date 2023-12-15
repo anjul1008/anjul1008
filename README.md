@@ -12,7 +12,7 @@
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m a Technical Lead at [Reverie Language Technologies](https://reverieinc.com/).
-- 👨🏽‍💻 Work in Speech to Text tech.
+- 👨🏽‍💻 Work in Speech to Text tech and NLP.
 - 🤔 My tech interests are with  Machine Learning, Data Science 📊, AI 🖥️
 - 💬 Ask me about anything, I am happy to help.
 - 📫 Please email via anjuljangir@gmail.com or ping me on [LinkedIn](https://www.linkedin.com/in/anjul-sharma-2b16b213a/) to reach me.
