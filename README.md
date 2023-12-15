@@ -11,7 +11,7 @@
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m a Senior Software Developer at [Reverie Language Technologies](https://reverieinc.com/).
+- 👨🏽‍💻 I’m a Technical Lead at [Reverie Language Technologies](https://reverieinc.com/).
 - 👨🏽‍💻 Work in Speech to Text tech.
 - 🤔 My tech interests are with  Machine Learning, Data Science 📊, AI 🖥️
 - 💬 Ask me about anything, I am happy to help.
